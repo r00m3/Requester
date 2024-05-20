@@ -9,12 +9,12 @@ and receive responses.
 
 > Write config.json
 > Fill in custom:
-  - Method
-  - Path
-  - Protocol
-  - Host
-  - Headers
-  - Body
+    - Method
+    - Path
+    - Protocol
+    - Host
+    - Headers
+    - Body
 > Send to server.
 > See how it goes :)
 
