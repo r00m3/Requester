@@ -3,8 +3,8 @@
 
 _Little tool to send custom HTTP requests and receive responses_
 
-    This is early draft.
-    Did not get inspired for more original name yet.
+   This is early draft.
+   Did not get inspired for more original name yet.
 
 
 - Write config.json
