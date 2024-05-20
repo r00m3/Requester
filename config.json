@@ -1,0 +1,14 @@
+{
+	"Method" : "GET",
+	"Path" : "/",
+	"Protocol" : "HTTP/1.1",
+	"Url" : "github.com",
+
+	"Headers" :[
+		"Referer: https://duckduckgo.com/"
+	],
+
+	"Body" : ""
+
+}
+
